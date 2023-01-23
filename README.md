@@ -70,8 +70,3 @@ $("#input1").persianDatepicker({
         onRender: function () { }
 });
 ```
-
-## Credit
-Created by [@kharabati](http://twitter.com/kharabati "@kharabati"))
-
-use, share , fork , enjoy! , ...
