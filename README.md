@@ -1,8 +1,7 @@
-## [Demos and information](http://behzadi.github.io/persianDatepicker/ "http://behzadi.github.io/persianDatepicker/")
 
 ## About
 
-persianDatepicker is A lightweight jQuery plugin that select persian(jalali) date. 
+Afghan Datepicker is A lightweight jQuery plugin that works on the top of Jalali (Persian) date. 
   
 - **Browsers:** >IE8, Chrome, Firefox, safari, opera  
 - **Light weight:** ~14k minified
